@@ -1,0 +1,16 @@
+body {
+    background: rgb(246, 209, 146);
+}
+h1,
+p,
+.links {
+    text-align: center;
+}
+.links {
+    padding: 5px;
+}
+
+.links a {
+    margin: 10px;
+    color: rgb(114, 37, 13);
+}
