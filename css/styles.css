@@ -14,3 +14,10 @@ p,
     margin: 10px;
     color: rgb(114, 37, 13);
 }
+
+.croissant-pic {
+    width: 500px;
+
+    display: block;
+    margin: 20px auto;
+}
